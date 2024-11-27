@@ -15,5 +15,5 @@ spec:
     - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/scaffolder-templates/quarkus-web-template/template.yaml
     - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/scaffolder-templates/argocd-template/template.yaml
     - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/scaffolder-templates/ansible-job/template.yaml
-    - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/ansible-templates/playbook.yaml
-    - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/ansible-templates/collection.yaml
+    - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/ansible-templates/playbooks.yaml
+    - https://github.com/starnold-redhat/rhdh_software_templates/blob/main/ansible-templates/collections.yaml
